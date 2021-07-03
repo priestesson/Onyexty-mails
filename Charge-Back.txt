@@ -1,0 +1,19 @@
+A chargeback is a reversal of funds which is initiated by the cardholder with their banking institution. As soon as (mt) Media Temple receives a chargeback notification, the account in question is suspended and a $25.00 fee will be added to the account. The account owner will receive notification of a chargeback via support request and services will not resume until (mt) Media Temple receives the required documentation.
+How to resolve a Chargeback
+IN ORDER TO REINSTATE YOUR SERVICE, YOU ARE REQUIRED TO COMPLETE ONE OF THE TWO OPTIONS LISTED BELOW. PLEASE NOTE THAT NONE OF THE REQUIREMENTS CONTAINED HEREIN ARE NEGOTIABLE. UNTIL SUCH TIME AS YOU HAVE FULLY COMPLIED WITH EITHER OPTION A OR OPTION B, YOUR SERVICES WILL REMAIN SUSPENDED.
+1. OPTION A: Chargeback Reversal
+Contact the card provider to reverse the chargeback. In some cases the card provider will provide you with a 'Transaction ID' number for reversal.
+Email or fax the following items to 'chargebacks@mediatemple.net' or (310) 878-0522:
+1. The 'Transaction ID' number for reversal.
+2. A copy of the cardholder's government-issued photo identification
+3. A SIGNED document, on your company letterhead, authorizing (mt) Media Temple to 'collect current and future
+charges from the card. Please indicate card type and last 4 digits of the card.
+2. OPTION B: Payment of Chargeback fee and reauthorization of credit card.
+Add a new credit/debit card to your (mt) Media Temple account, to be used for current and future payments on your account.
+Pay the total amount in dispute, plus a (mt) Media Temple assessed $25.00 chargeback fee, per chargeback.
+Email or fax the following items to 'chargebacks@mediatemple.net' or (310) 878-0522:
+
+ 1. A copy of the cardholder's government-issued photo identification
+2. A SIGNED document, on your company letterhead, authorizing (mt) Media Temple to 'collect current and future
+charges from the new card. Please indicate card type and last 4 digits of the card.
+Once we receive your documents, we will review the information and act accordingly. All chargeback reinstatement requests are handled in order in which received. Generally, if you've followed the instructions outlined above, your reinstatement request should take no more than 24 business hours for us to process. Please note that if your submission lacks any of the required information, your request will face a delay in processing. We will provide you an update concerning your account's status, via support request, when we have completed the review of your submission. 
